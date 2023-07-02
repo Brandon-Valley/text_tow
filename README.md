@@ -7,3 +7,13 @@ https://sell.peddle.com/offer/10676223/status
 ## TODO
 
 - facebook review?
+
+
+## Links
+
+- https://help.peddle.com/en/articles/2841626-how-do-i-prepare-my-missouri-title
+
+- https://sell.peddle.com/offer/10676223/status
+- https://www.reddit.com/r/cars/comments/rskwla/are_junk_your_car_companies_a_scam/
+- https://www.reddit.com/r/askcarsales/comments/ritqea/my_experience_selling_a_nonrunning_car_on_carvio/
+- 
