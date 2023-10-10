@@ -19,3 +19,8 @@ https://sell.peddle.com/offer/10676223/status
 - https://www.reddit.com/r/cars/comments/rskwla/are_junk_your_car_companies_a_scam/
 - https://www.reddit.com/r/askcarsales/comments/ritqea/my_experience_selling_a_nonrunning_car_on_carvio/
 - 
+
+Very Sad:
+- Looks like they just made thier own peddel & killed thier API site - probably kills this idea
+  - https://web.archive.org/web/20211126080608/https://cars.iaai.com/
+  - https://www.iaai.com/marketing/cash-for-cars
